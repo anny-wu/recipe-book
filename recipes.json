@@ -23,10 +23,7 @@
       "title": "Egg Substitutes",
       "image": "images/egg_substitutes.png",
       "notes": "Can also use 1/4 cup unsweetened applesauce or 1/4 cup mashed banana.",
-      "ingredients": [
-        "1 1/4 tsp - Unflavored Grass-Fed Beef Gelatin",
-        "3 Tbsp - Hot Water"
-      ],
+      "ingredients": ["1 1/4 tsp - Unflavored Grass-Fed Beef Gelatin", "3 Tbsp - Hot Water"],
       "instructions": [
         "Place the gelatin and hot water in a small glass bowl.",
         "Blend together until it becomes frothy, about 30 seconds. Add immediately to your baking recipe."
@@ -53,15 +50,8 @@
       "title": "Grain-Free Baking Powder",
       "image": "images/grain_free_baking_powder.png",
       "notes": "",
-      "ingredients": [
-        "1/4 cup - Baking Soda",
-        "1/4 cup - Arrowroot Flour",
-        "1/2 cup - Cream of Tartar"
-      ],
-      "instructions": [
-        "Combine and mix all ingredients.",
-        "Store in an airtight canning jar in the fridge."
-      ]
+      "ingredients": ["1/4 cup - Baking Soda", "1/4 cup - Arrowroot Flour", "1/2 cup - Cream of Tartar"],
+      "instructions": ["Combine and mix all ingredients.", "Store in an airtight canning jar in the fridge."]
     },
     {
       "category": "Miscellaneous",
@@ -172,10 +162,7 @@
         "1 tsp - Sea Salt",
         "1 tsp - Pepper"
       ],
-      "instructions": [
-        "Combine and mix all ingredients.",
-        "Store in a small Mason jar with a lid."
-      ]
+      "instructions": ["Combine and mix all ingredients.", "Store in a small Mason jar with a lid."]
     },
     {
       "category": "Desserts",
@@ -303,11 +290,7 @@
       "title": "Banana Coconut Saute",
       "image": "images/banana_coconut_saute.png",
       "notes": "This recipe is simple but surprisingly delicious!",
-      "ingredients": [
-        "Bananas (as many as desired)",
-        "1 Tbsp - Coconut Oil",
-        "Shredded Unsweetened Coconut Flakes"
-      ],
+      "ingredients": ["Bananas (as many as desired)", "1 Tbsp - Coconut Oil", "Shredded Unsweetened Coconut Flakes"],
       "instructions": [
         "Preheat a skillet to medium/low with coconut oil.",
         "Slice the bananas in half lengthwise. Place the bananas in the skillet. After a minute or two, flip the bananas for another minute and sprinkle them with coconut flakes."
@@ -980,11 +963,7 @@
       "title": "Maple Butter Cups",
       "image": "images/maple_butter_cups.png",
       "notes": "",
-      "ingredients": [
-        "2 cups - Dark Chocolate Chips",
-        "2 Tbsp - Coconut Oil",
-        "1 Jar of Maple Butter"
-      ],
+      "ingredients": ["2 cups - Dark Chocolate Chips", "2 Tbsp - Coconut Oil", "1 Jar of Maple Butter"],
       "instructions": [
         "Line a mini muffin tin with paper cup liners (makes 24).",
         "Combine 1 cup of the chocolate chips and 1 Tbsp. coconut oil on the stove in a double boiler and melt until smooth.",
@@ -1028,10 +1007,7 @@
         "2 Tbsp - Pure Maple Syrup",
         "1/2 tsp - Pure Vanilla Extract"
       ],
-      "instructions": [
-        "Mix well and pour into popsicle mold.",
-        "Freeze and enjoy!"
-      ]
+      "instructions": ["Mix well and pour into popsicle mold.", "Freeze and enjoy!"]
     },
     {
       "category": "Desserts",
@@ -1353,9 +1329,7 @@
         "1/4 tsp - Pumpkin Pie Spice",
         "1/4 tsp - Ground Ginger"
       ],
-      "instructions": [
-        "Add all ingredients to the blender and blend until smooth."
-      ]
+      "instructions": ["Add all ingredients to the blender and blend until smooth."]
     },
     {
       "category": "Drinks",
@@ -1410,9 +1384,7 @@
         "1/2 Tbsp - Pure Maple Syrup",
         "1 cup - Hot Filtered Water"
       ],
-      "instructions": [
-        "Add all ingredients to the blender and blend until smooth."
-      ]
+      "instructions": ["Add all ingredients to the blender and blend until smooth."]
     },
     {
       "category": "Drinks",
@@ -1427,9 +1399,7 @@
         "1 Large Ripe Mango, Roughly Chopped",
         "1 Banana"
       ],
-      "instructions": [
-        "Blend ingredients in a high powered blender until creamy and smooth."
-      ]
+      "instructions": ["Blend ingredients in a high powered blender until creamy and smooth."]
     },
     {
       "category": "Drinks",
@@ -1630,9 +1600,7 @@
         "1 Clove Garlic, Minced",
         "1 Bottle of Barbeque Sauce of your Choice (Our Favorite: Brownwood Farm's Cherry Barbeque Sauce)"
       ],
-      "instructions": [
-        "Place all the ingredients in the slow cooker and cover and cook on LOW for 4-5 hours."
-      ]
+      "instructions": ["Place all the ingredients in the slow cooker and cover and cook on LOW for 4-5 hours."]
     },
     {
       "category": "Entrées",
@@ -1645,10 +1613,7 @@
         "1/4 cup - Basil, Chopped",
         "Beef Roast Seasoning"
       ],
-      "instructions": [
-        "Mix all together and make into 4 patties.",
-        "Bake or grill. We eat them without a bun!"
-      ]
+      "instructions": ["Mix all together and make into 4 patties.", "Bake or grill. We eat them without a bun!"]
     },
     {
       "category": "Entrées",
@@ -1773,10 +1738,7 @@
         "Romaine Lettuce",
         "Sea Salt and Pepper to Taste"
       ],
-      "instructions": [
-        "Combine ingredients in a bowl and mix well.",
-        "Serve over a bed of lettuce."
-      ]
+      "instructions": ["Combine ingredients in a bowl and mix well.", "Serve over a bed of lettuce."]
     },
     {
       "category": "Entrées",
@@ -2184,11 +2146,39 @@
         "Optional: Sliced Scallions for Garnish"
       ],
       "instructions": [
-        "Bake the sweet potato for about an hour at 375 degrees and set aside. (this can be done the day before if desired).",
+        "Bake the sweet potato for about an hour at 375 degrees and set aside. (This can be done the day before if desired).",
         "Cook the ground beef and 1 tsp. salt in a skillet until broken up in small pieces and about halfway cooked. Transfer to crockpot.",
         "Use the same skillet to heat avocado oil. Then add garlic, onion, and celery and cook for 5 minutes until soft. Add the chili powder, cumin, cinnamon and cloves and stir, cooking for 1 more minute. Pour in the broth, scraping the bottom of the pan and transfer to the crockpot.",
         "Add to the crockpot: pine nuts, sweet potato puree, adobo seasoning, wine vinegar, coconut aminos, 2 tsp. salt and pepper to taste.",
         "Cover and cook on low for 5 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Lemon Pepper Chicken",
+      "image": "images/lemon_pepper_chicken.jpg",
+      "notes": "",
+      "ingredients": [
+        "4 lbs - Chicken Breasts",
+        "2 Tbsp - Olive Oil",
+        "1 Lemon",
+        "2 Tbsp - Lemon Juice",
+        "1 Tbsp - Lemon Pepper Seasoning",
+        "1 tsp - Salt",
+        "1 tsp - Garlic Powder",
+        "1/2 tsp - Onion Powder",
+        "1/2 tsp - Paprika",
+        "1/2 tsp - Italian Seasoning"
+      ],
+      "instructions": [
+        "Preheat oven to 400 degrees.",
+        "Place chicken in a large glass baking dish.",
+        "In a small bowl, whisk together the olive oil and lemon juice.",
+        "Drizzle the mixture evenly over both sides of the chicken.",
+        "In another small bowl, mix together the lemon pepper, salt, garlic powder, onion powder, paprika, and Italian seasoning.",
+        "Sprinkle the spice mixture evenly over both sides of the chicken.",
+        "Thinly slice the lemon and place a slice on top of each chicken breast.",
+        "Bake for 35-45 minutes or until chicken is cooked through."
       ]
     },
     {
@@ -2205,10 +2195,7 @@
         "1/4 tsp - Black Pepper",
         "3 Tbsp - Pure Maple Syrup"
       ],
-      "instructions": [
-        "Place all ingredients into the slow cooker.",
-        "Cook on Low for 6 hours."
-      ]
+      "instructions": ["Place all ingredients into the slow cooker.", "Cook on Low for 6 hours."]
     },
     {
       "category": "Entrées",
@@ -2768,6 +2755,33 @@
     },
     {
       "category": "Soup & Sauces",
+      "title": "Creamy Loaded Potato Soup",
+      "image": "images/creamy_loaded_potato_soup.jpg",
+      "notes": "Serves 5-6.",
+      "ingredients": [
+        "6 Bacon Strips",
+        "1 Onion, Chopped",
+        "6 Garlic Cloves, Minced",
+        "1 Tbsp - Avocado Oil",
+        "2 1/2 lbs - Potatoes, Peeled and Cubed",
+        "32 oz - Chicken Broth",
+        "2 tsp - Salt",
+        "1/2 tsp - Black Pepper",
+        "1 1/4 cups - Full-Fat Coconut Milk",
+        "1/2 cup - Green Onions, Chopped"
+      ],
+      "instructions": [
+        "Heat up a large pot over medium-high heat for about 2 minutes with a small amount of avocado oil.",
+        "Slice bacon into small pieces, add to the pot, and cook until crispy. Remove and allow it to drain on paper towels.",
+        "Add diced onions and garlic into the pan. Throw in two big pinches of salt. Let them cook in the bacon grease for about 3 minutes until the onions have become translucent.",
+        "Add chopped potatoes, broth, salt, and pepper to the pot. Bring the soup to a rolling boil and lower the heat to medium low. Let the soup simmer for 25-30 minutes or until potatoes are tender.",
+        "When potatoes are tender, add canned coconut milk and stir well.",
+        "Add soup a little at a time to a blender and blend on high until creamy throughout. Pour the blended soup into a large bowl. Repeat until all the soup has been blended.",
+        "Stir in the bacon and green onions."
+      ]
+    },
+    {
+      "category": "Soup & Sauces",
       "title": "Creamy Mushroom Soup",
       "image": "images/creamy_mushroom_soup.png",
       "notes": "",
@@ -3042,10 +3056,7 @@
       "title": "Applesauce",
       "image": "images/applesauce.png",
       "notes": "",
-      "ingredients": [
-        "16-18 Apples",
-        "Desired spices: Cinnamon, Nutmeg, Allspice, Ginger"
-      ],
+      "ingredients": ["16-18 Apples", "Desired spices: Cinnamon, Nutmeg, Allspice, Ginger"],
       "instructions": [
         "Peel and core apples and cut into chunks. Place in a large pot on the stove with 1\" of water in the bottom of the pot.",
         "Cover and boil until soft",
@@ -3206,10 +3217,7 @@
         "1/3 cup - Local Raw Honey",
         "2 tbsp - Apple Cider Vinegar"
       ],
-      "instructions": [
-        "Mix dressing, pour over cooked bacon and broccoli.",
-        "Add other ingredients and mix well."
-      ]
+      "instructions": ["Mix dressing, pour over cooked bacon and broccoli.", "Add other ingredients and mix well."]
     },
     {
       "category": "Appetizers",
@@ -3450,9 +3458,7 @@
         "1 1/2 Tbsp - Lime Juice",
         "1 tsp - Dried Basil"
       ],
-      "instructions": [
-        "In a mixing bowl, combine all ingredients and mix well."
-      ]
+      "instructions": ["In a mixing bowl, combine all ingredients and mix well."]
     },
     {
       "category": "Appetizers",
@@ -3785,13 +3791,7 @@
       "title": "Smashed Potatoes",
       "image": "images/smashed_potatoes.png",
       "notes": "",
-      "ingredients": [
-        "6 Small Potatoes",
-        "Fresh Rosemary Sprig",
-        "1/4 cup - Avocado Oil",
-        "Sea Salt",
-        "Pepper"
-      ],
+      "ingredients": ["6 Small Potatoes", "Fresh Rosemary Sprig", "1/4 cup - Avocado Oil", "Sea Salt", "Pepper"],
       "instructions": [
         "Preheat oven to 390 degrees.",
         "Wash potatoes and place in a pot of boiling water. Boil for 25 minutes.",
@@ -4123,7 +4123,7 @@
         "Preheat the oven to 350 degrees.",
         "In a large skillet, melt coconut oil. Add onion and saute until softened. Add sausage to the skillet and cook until done all the way through, breaking up the pieces. Remove from heat.",
         "Grease an 8\"x8\" glass baking dish. Sprinkle the sausage mixture over the bottom of the dish.",
-        "In a medium bowl, whisk together eggs, sea salt, pepper and Italian seasoning. Pour egg mixture over sausage mixture in the baking dish. Sprinkle some salt and pepper on top.",
+        "In a medium bowl, whisk together eggs, sea salt, pepper, and Italian seasoning. Pour egg mixture over sausage mixture in the baking dish. Sprinkle some salt and pepper on top.",
         "Bake for 25-30 min or until lightly browned on top and the center is set. Let cool completely on a wire rack. Slice and eat!",
         "These can be frozen. Just put a piece of parchment paper between each layer and seal in an airtight container. When ready to eat, thaw in the fridge overnight and reheat in the oven at 325 degrees for about 20 min."
       ]
@@ -4748,9 +4748,7 @@
         "1 Clove Garlic, Minced",
         "1 Bottle of Barbeque Sauce of your Choice (Our Favorite: Brownwood Farm's Cherry Barbeque Sauce)"
       ],
-      "instructions": [
-        "Place all the ingredients in the slow cooker and cover and cook on LOW for 4-5 hours."
-      ]
+      "instructions": ["Place all the ingredients in the slow cooker and cover and cook on LOW for 4-5 hours."]
     },
     {
       "category": "Crockpot",
@@ -5134,10 +5132,7 @@
         "1/4 tsp - Black Pepper",
         "3 Tbsp - Pure Maple Syrup"
       ],
-      "instructions": [
-        "Place all ingredients into the slow cooker.",
-        "Cook on Low for 6 hours."
-      ]
+      "instructions": ["Place all ingredients into the slow cooker.", "Cook on Low for 6 hours."]
     },
     {
       "category": "Crockpot",
